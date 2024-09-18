@@ -1,1 +1,3 @@
-# pong-the-beginning
+# Pong: The beginning
+
+Pong, but better!!!
