@@ -3,7 +3,7 @@
 Pong, but better!!!
 
 
-The game runs in windowed 1280x720 resolution. 
+The game runs in windowed 600x600 resolution. 
 
 Scoring, Health, and Abilities are coming!!!!
 
